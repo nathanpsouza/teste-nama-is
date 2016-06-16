@@ -1,3 +1,4 @@
+build: [![CircleCI](https://circleci.com/gh/nathanpsouza/teste-nama-is.svg?style=svg)](https://circleci.com/gh/nathanpsouza/teste-nama-is)
 # Teste para desenvolvedor backend Nama.is
 
 ## Depêndencias:
